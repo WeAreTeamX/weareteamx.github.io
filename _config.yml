@@ -12,7 +12,7 @@ htb_badge_no: # Go to the HackTheBox site and copy your ID
 thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
 show_thm_htb_badges_in_nav: false
 github_username: "WeAreTeamX"
-gitlab: "https://gitlab.com/Ign0r3dh4x0r"
+gitlab:
 medium:
 stackoverflow:
 hacker_news:
@@ -20,11 +20,11 @@ linkedin:
 twitch:
 youtube:
 twitter: 
-facebook: "https://web.facebook.com/groups/team.x.official.community"
+facebook: "groups/team.x.official.community"
 instagram:
 reddit:
 pinterest:
-telegram: "https://t.me/teamx1337"
+telegram: "Teamx1337official"
 steam:
 
 # -------DO NOT ALTER -------#

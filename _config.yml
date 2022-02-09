@@ -1,33 +1,30 @@
-remote_theme: CaptainIRS/hacker-plus-theme
-
-title:
-author:
-description: 
+title: Team X 1337
+author: Shayer Mahmud Sowmik
+description: The official website of Team X 1337. Browse our projects and download crazy stuffs from here.
+google_analytics:
+google_site_verification_content: 
 disqus_forum_shortname:
-google_site_verification_content: # The 'content' tag for site verification
-google_analytics: # Your Google Analytics Tracking ID
 
-# Usernames and badges
-htb_badge_no: # Go to the HackTheBox site and copy your ID
-thm_badge_no: # Go to https://tryhackme.com/profile -> Public Profile -> Get Badge ID
+#Usernames and badges
+htb_badge_no:
+thm_badge_no:
 show_thm_htb_badges_in_nav: false
-github_username: 
+github_username: WeAreTeamX
 gitlab:
 medium:
 stackoverflow:
 hacker_news:
 linkedin:
 twitch:
-youtube:
-twitter: 
-facebook:
+youtube: 
+twitter:
+facebook: groups/team.x.official.community
 instagram:
 reddit:
 pinterest:
-telegram:
+telegram: TeamX1337Official
 steam:
 
-# -------DO NOT ALTER -------#
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
@@ -45,9 +42,9 @@ collections:
    pages:
       output: true
       permalink: /:name
-   writeups:
+   tutorials:
       output: true
-   solutions:
+   downloads:
       output: true
-   blog:
+   projects:
       output: true

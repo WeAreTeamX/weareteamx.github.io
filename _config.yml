@@ -34,7 +34,7 @@ exclude: [
    scripts
 ]
 plugins:
-   - jekyll-seo-tag
+   # - jekyll-seo-tag
    - jemoji
    - jekyll-sitemap
    - jekyll-github-metadata

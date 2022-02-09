@@ -48,7 +48,7 @@ rm flag.txt</code>
 ## Team Members
 
 <details> 
-<summary><small>According to joinning date.</small></summary>
+<summary><small class="sm-heading">According to joinning date. </small></summary>
 
 <dl>
 

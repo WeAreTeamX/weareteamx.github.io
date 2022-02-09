@@ -48,3 +48,4 @@ collections:
       output: true
    projects:
       output: true
+theme: jekyll-theme-cayman

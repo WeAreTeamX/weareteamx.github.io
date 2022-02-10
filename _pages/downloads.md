@@ -5,8 +5,8 @@ layout: default
 
 # Downloads Zone
 
-## XBOMBER PRO
-- <a class="button no-decoration" href="https://github.com/WeAreTeamX/xbomber-pro/releases/download/v3.6/X_BOMBER_PRO_3.6.apk">v3.6 [LATEST]</a>
+## XBOMBER PRO - SMS BOMBER
+- <a class="button no-decoration" href="https://yip.su/2YGV27.apk">v3.7 [LATEST]</a>
 
-## XPOOFER 
-- _WILL BE RELEASED SOON_ 
+## XPOOFER - EMAIL SPOOFER
+- <a class="button no-decoration" href="https://iplis.ru/2YTN27.apk">v1.0.0 [LATEST]</a>

@@ -25,10 +25,10 @@ rm flag.txt</code>
 </pre>  -->
 
 
-#### [Xbomber Web Community Edition](https://github.com/WeAreTeamX/xbomber-web-community-edition)
+#### [Xbomber Pro](https://github.com/WeAreTeamX/xpoofer-app)
 
-*   Added New APIs.
-*   Improved `script.js`.  
+*   Initial Release!
+
 
 #### [Xbomber Pro](https://github.com/WeAreTeamX/xbomber-pro)
 
@@ -36,12 +36,19 @@ rm flag.txt</code>
 *   UI improvement.
 *   Bug fixes.
 
+#### [Xbomber Web Community Edition](https://github.com/WeAreTeamX/xbomber-web-community-edition)
+
+*   Added New APIs.
+*   Improved `script.js`.  
+
+
+
 * * *
 
 ### On Progress Projects 
 
-*   **XPOOFER** - _An Email Spoofer Application_
 *   **XELF BOMBER** - _SMS Bomber with API management features._
+*   **XBomber CLI** - _Open Source SMS Bomber for command-line usage._
 
 * * *
 

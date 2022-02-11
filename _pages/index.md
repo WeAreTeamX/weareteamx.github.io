@@ -25,12 +25,12 @@ rm flag.txt</code>
 </pre>  -->
 
 
-#### [XPOOFER](https://github.com/WeAreTeamX/xpoofer-app)
+#### [XPOOFER](https://github.com/WeAreTeamX/xpoofer-app) - [_Download_](https://weareteamx.github.io/downloads)
 
 *   Initial Release!
 
 
-#### [Xbomber Pro](https://github.com/WeAreTeamX/xbomber-pro)
+#### [Xbomber Pro](https://github.com/WeAreTeamX/xbomber-pro) - [_Download_](https://weareteamx.github.io/downloads)
 
 *   Added a lot of APIs.
 *   UI improvement.

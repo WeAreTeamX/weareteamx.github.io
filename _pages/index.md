@@ -17,12 +17,17 @@ layout: default
   class="command-line" 
   data-prompt="kali@kali $" 
   data-output="4"
-><code class="language-bash"># Bash script with shell
+>
+<code class="language-bash">
+# Bash script with shell
 echo "flag{i_4m_a_f14g}" > flag.txt
 cat flag.txt
 flag{i_4m_a_f14g}
-rm flag.txt</code>
-</pre>  -->
+rm flag.txt
+</code>
+</pre> 
+
+* * * -->
 
 
 #### [XPOOFER](https://github.com/WeAreTeamX/xpoofer-app) - [_Download_](https://weareteamx.github.io/downloads)

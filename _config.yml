@@ -48,4 +48,8 @@ collections:
       output: true
    projects:
       output: true
+   terms-and-conditions:
+      output: true
+   privacy-policy:
+      output: true
 theme: jekyll-theme-cayman

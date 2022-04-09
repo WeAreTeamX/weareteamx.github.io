@@ -39,6 +39,11 @@ rm flag.txt
 *   Free SMS Sender and SMS Bomber with enriched features like adding APIs personally.
 
 
+#### [Xbomber CLI Community Edition](https://github.com/WeAreTeamX/xbomber-node-community-edition)
+
+*   Initial Release!
+
+
 #### [XPOOFER](https://github.com/WeAreTeamX/xpoofer-app) - [_Download_](https://weareteamx.github.io/downloads)
 
 *   Initial Release!
@@ -59,12 +64,6 @@ rm flag.txt
 
 * * *
 
-### On Progress Projects 
-
-*   **XELF BOMBER** - _SMS Bomber with API management features._
-*   **XBomber CLI** - _Open Source SMS Bomber for command-line usage._
-
-* * *
 
 ## Team Members
 

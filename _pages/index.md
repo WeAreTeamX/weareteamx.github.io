@@ -30,6 +30,15 @@ rm flag.txt
 * * * -->
 
 
+#### [XFAKE MAILER](https://github.com/WeAreTeamX/xfake-mailer) - [_Download_](https://weareteamx.github.io/downloads)
+
+*   Initial Release!
+
+#### [IGN0R3DxALPHA](https://alphasowmik.xyz/)
+
+*   Free SMS Sender and SMS Bomber with enriched features like adding APIs personally.
+
+
 #### [XPOOFER](https://github.com/WeAreTeamX/xpoofer-app) - [_Download_](https://weareteamx.github.io/downloads)
 
 *   Initial Release!

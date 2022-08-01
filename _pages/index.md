@@ -30,11 +30,17 @@ rm flag.txt
 * * * -->
 
 
+#### [HIDDEN BOMBER](https://github.com/WeAreTeamX/hidden-bomber-app) - [_Download_](https://weareteamx.github.io/downloads)
+
+*   First working and valid call bomber in Bangladesh!
+*   Initial Release.
+
+
 #### [XFAKE MAILER](https://github.com/WeAreTeamX/xfake-mailer) - [_Download_](https://weareteamx.github.io/downloads)
 
 *   Initial Release!
 
-#### [IGN0R3DxALPHA](https://alphasowmik.xyz/)
+#### [IGN0R3DxALPHA](#) (Deprecated)
 
 *   Free SMS Sender and SMS Bomber with enriched features like adding APIs personally.
 

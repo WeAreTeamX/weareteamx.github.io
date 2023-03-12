@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Redirecting...</title>
+	<script>
+		window.location.href = "https://weareteamx.github.io/ProjectStore/";
+	</script>
+</head>
+<body>
+	<p>If you are not redirected automatically, click <a href="https://weareteamx.github.io/ProjectStore/">here</a>.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
 ---
 layout: default
 ---

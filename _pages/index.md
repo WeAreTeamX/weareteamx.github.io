@@ -29,10 +29,10 @@ rm flag.txt
 
 * * * -->
 
-#### <h3><a href="https://weareteamx.github.io/ProjectStore/">View Our Hot Project Store</a></h3>
+#### <a href="https://weareteamx.github.io/ProjectStore/">View Our Hot Project Store</a>
 
-*   Team X Hot Project Store, There Are Most Usages Apk Here
-*   App And Website Best tools Project Here With Awesome Desgine
+🔥  Team X Hot Project Store, There Are Most Usages Apk Here
+🔥  A project store with awesome apps and websites
 
 
 

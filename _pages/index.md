@@ -29,6 +29,14 @@ rm flag.txt
 
 * * * -->
 
+#### [Our Project Store ](https://weareteamx.github.io/ProjectStore/) - [_View Our Official Project Store_](https://weareteamx.github.io/ProjectStore/)
+
+*   First working and valid call bomber in Bangladesh!
+*   Initial Release.
+
+
+
+
 
 #### [HIDDEN BOMBER](https://github.com/WeAreTeamX/hidden-bomber-app) - [_Download_](https://weareteamx.github.io/downloads)
 

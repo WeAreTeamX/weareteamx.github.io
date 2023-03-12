@@ -31,8 +31,8 @@ rm flag.txt
 
 #### <a href="https://weareteamx.github.io/ProjectStore/">View Our Hot Project Store</a>
 
-🔥  Team X Hot Project Store, There Are Most Usages Apk Here
-🔥  A project store with awesome apps and websites
+Team X Hot Project Store, There Are Most Usages Apk Here <br>
+A project store with awesome apps and websites
 
 
 
